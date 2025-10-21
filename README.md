@@ -31,7 +31,44 @@ It aims to help in **disaster preparedness and resource management**.
   - `caret` → Model training  
   - `dplyr` → Data cleaning  
   - `caTools` → Data splitting  
-  - `randomForest` → Classification  
+  - `randomForest` → Classification
+
+
+---
+
+## Sample Results
+| Model | Accuracy | 
+|--------|-----------|
+| Linear Regression | 100% |
+| Random Forest | 91.59% | 
+| Logistic Tree | 100% | 
+
+
+
+---
+
+## Key Insights
+- **Monsoon intensity** and **rainfall** are strong flood indicators.  
+- Random Forest achieved the best performance.  
+- Feature scaling improved model accuracy.
+
+---
+
+## Future Enhancements
+- Integrate **live weather data APIs** for real-time prediction.  
+- Deploy using **R Shiny dashboard** for user interaction.  
+- Expand model for **multi-region flood forecasting**.
+
+---
+
+## Author
+**Deepika S**  
+ MCA Student  
+
+---
+
+⭐ *If you found this useful, don’t forget to give this project a star on GitHub!*
+
 
 ---
 
